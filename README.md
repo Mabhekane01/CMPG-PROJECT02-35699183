@@ -1,6 +1,6 @@
 # CMPG-PROJECT02-35699183
 
-##Describtion
+##Describtion##
 I have created the GET and POST methods for Devices, Zones and Categories in separate controllers?
 I have created the PUT and DELETE methods for Devices, Zones and Categories in separate controllers?
 I have created a GET method that gets the devices based on a category ID being parsed in?
