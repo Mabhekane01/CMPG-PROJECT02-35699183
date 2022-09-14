@@ -12,4 +12,4 @@ All relevent security and features have  been implemented according to the given
 
 ### API Management Endpoints
 
-I have uploaded the Api management endpoints in the issues and this is the link - https://github.com/Mabhekane01/CMPG-PROJECT02-35699183/issues/5
+I have uploaded the Api management endpoints screenshots in the issues and this is the link - https://github.com/Mabhekane01/CMPG-PROJECT02-35699183/issues/5
